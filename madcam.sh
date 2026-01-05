@@ -91,9 +91,9 @@ echo '
   ".________________Ahsan-Hacker_________________." ' |lolcat
                                                                               
 echo " "
-printf "\e[1;93m[\e[0m\e[1;77m+\e[0m\e[1;93m]Tool link  :\e[0m\e[1;77m %s\e[0m\n https://www.github.com/MrMadBhai/MadCam"
+printf "\e[1;93m[\e[0m\e[1;77m+\e[0m\e[1;93m] Tools link : https://github.com/Ahsan-Hacker/Optical-Attak.git/
 printf "\n"
-printf "\e[1;93m[\e[0m\e[1;77m+\e[0m\e[1;93m]Instagram ID :\e[0m\e[1;77m %s\e[0m\n https://www.instagram.com/MrMadBhai"
+printf "\e[1;93m[\e[0m\e[1;77m+\e[0m\e[1;93m]Facebook ID :\e[0m\e[1;77m %s\e[0m\n https://www.facebook.com/share/1ZeJwCNNuz/"
 printf "\n"
 
 }
